@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+
+    background-color: rgb(3, 3, 3);
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div1 ul li{
+list-style: none;
+display: inline;
+}
+.div1 ul li a{
+color: whitesmoke;
+}
+.div1 ul li a:hover{
+  background-color: rgb(69, 108, 180);
+  color:black;
+  border-radius: 2px;
+  padding: 5px;
+}
+.div1 a{
+    padding-right: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.kk{
+
+background-color: rgb(3, 3, 3);
+height: 70px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.kk ul li{
+list-style: none;
+display: inline;
+}
+.kk ul li a{
+color: whitesmoke;
+}
+.kk ul li a:hover{
+background-color: rgb(69, 108, 180);
+color:black;
+border-radius: 2px;
+padding: 5px;
+}
+.kk a{
+padding-right: 10px;
+font-size: 20px;
+text-decoration: none;
+}
+.div2{
+   background-color:rgb(46, 44, 44);
+   height: 500px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.hj img{
+    border-radius: 50%;
+}
+
+
+h4{
+    font-size: 40px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+h4 span{
+    color: rgb(202, 223, 20);
+}
+p{
+    font-size: 25px;
+    padding-left: 50px;
+    color: white;
+}
+.m{
+    background-color: rgb(46, 44, 44);
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+.m a{
+    background: black;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+}
+.l{
+    background-color:rgb(46, 44, 44);
+    margin-top: 0px;
+}
+.l h2{
+    font-size:16px ;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.l p{
+    font-size:20px ;
+     color: black;
+     padding-bottom: 20px;
+}
+.m h3{
+    font-size: 20px;
+}

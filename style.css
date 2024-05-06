@@ -1,0 +1,25 @@
+*
+body{
+    margin: 0;
+}
+.div1{
+
+    background-color: rgb(3, 3, 3);
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div1 ul li{
+list-style: none;
+display: inline;
+}
+.div1 ul li a{
+color: whitesmoke;
+}
+.div1 ul li a:hover{
+  background-color: rgb(69, 108, 180);
+  color:black;
+  border-radius: 2px;
+  padding: 5px;
+}

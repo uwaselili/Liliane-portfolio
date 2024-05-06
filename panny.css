@@ -1,0 +1,152 @@
+*
+body{
+    margin: 0;
+}
+.section1{
+
+    background-color: rgb(3, 3, 3);
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section1 ul li{
+list-style: none;
+display: inline;
+}
+.section1 ul li a{
+color: whitesmoke;
+}
+.section1 ul li a:hover{
+  background-color: rgb(69, 108, 180);
+  color:black;
+  border-radius: 2px;
+  padding: 5px;
+}
+h2{
+color: white;
+padding-left: 10px;
+}
+a{
+padding-right: 10px;
+font-size: 20px;
+text-decoration: none;
+}
+.section2{
+height: 250px; display: flex;
+justify-content: center;
+align-items: center;
+background-image:url("logo.jpg");
+margin-top: 2px;
+}
+h1{
+color: rgb(26, 97, 228);
+font-size: 30px;
+
+}
+.section3{
+display: flex;
+justify-content: space-between;
+background-color: rgb(73, 69, 69);
+padding-top: 5px;
+margin-top: 5px;
+}
+p{
+font-size: 60px;
+font-family: sans-serif;
+color: rgb(0, 0, 0);
+}
+.section4{
+height: 200px;
+display: flex;
+margin: left 0%;;
+justify-content: space-around;
+background-color: black;
+padding-top: 5px;
+padding-bottom: 50px;
+margin-top: 5px;
+}
+.emer img{
+border-radius: 10px;
+background-image:url("lab.jpg");
+background-size:cover ;
+}
+.lily img{
+border-radius: 10px;
+}
+.besolla img {
+border-radius: 10px;
+} 
+.section4 img{
+background-image:url("lab.jpg");
+background-size:cover ;
+}
+p{
+font-size: 15px;
+background-color: rgb(24, 126, 126);
+border-radius: 5px;
+padding: 6px;
+}
+.mn{
+padding:20px;
+background-color:  rgb(73, 69, 69);
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-right: 10px;
+margin-top: 5px;
+}
+h1{
+color: rgb(255, 1, 98);
+
+}
+.mn p{
+color: black;
+padding: 20px;
+}
+.h3{
+    color: black;
+    font-size: 30px;
+     align-items: center;
+}
+
+.kk{
+background-color: rgb(3, 3, 3);
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+}
+
+.kk{
+
+    background-color: rgb(3, 3, 3);
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+.kk ul li{
+list-style: none;
+display: inline;
+}
+.kk ul li a{
+color: whitesmoke;
+}
+.kk ul li a:hover{
+  background-color: rgb(69, 108, 180);
+  color:black;
+  border-radius: 2px;
+  padding: 5px;
+}
+h2{
+color: white;
+padding-left: 10px;
+}
+a{
+padding-right: 10px;
+font-size: 20px;
+text-decoration: none;
+}
